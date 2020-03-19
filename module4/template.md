@@ -11,10 +11,10 @@ working on for your project week.
 ## You
 
 What do you care about?
-
+Fitness
 
 What do you know about?
-
+Fitness
 
 What decisions do you face?
 
@@ -41,7 +41,7 @@ Can you apply the templates to your topics?
 
 
 6. What's the most popular?
-
+Treadmills or Weights? Cardio or Powerlifting? Which of these is better?
 
 7. Cost/Money rankings
 
@@ -49,21 +49,22 @@ Can you apply the templates to your topics?
 ## Misconceptions
 
 What misconceptions do people have about your topic?
-
+That it takes 21 days to form a habit, I believe this is false.
+Cardio is better than weight training, or vice versa.
 
 ## Examples
 
 What data storytelling example inspires you?
-
+https://query.data.world/s/6t3iwajtrzjflrfry6r6cwofi5wnvg
 
 Could you do a new hypothesis, for the same question?
-
+Yes
 
 Could you do a new question, for the same topic?
-
+Yes
 
 Could you do a new topic, with the same "style"?
-
+Yes
 
 ## Data
 
@@ -76,10 +77,10 @@ Where could you search for data about your topic?
 ## You
 
 What do you care about?
-
+Travel
 
 What do you know about?
-
+Travel
 
 What decisions do you face?
 
@@ -100,7 +101,7 @@ Can you apply the templates to your topics?
 
 
 4. Answering a question people care about
-
+Is travelling the world safe?
 
 5. Valuable to businesses
 
@@ -109,27 +110,29 @@ Can you apply the templates to your topics?
 
 
 7. Cost/Money rankings
-
+Is travel expensive?
 
 ## Misconceptions
 
 What misconceptions do people have about your topic?
-
+That travel is "too expensive".
+That travel is unsafe for most people.
 
 ## Examples
 
 What data storytelling example inspires you?
-
+https://query.data.world/s/7bkp332rik65cme7c5pvled7hytcey
 
 Could you do a new hypothesis, for the same question?
-
+Yes
 
 Could you do a new question, for the same topic?
-
+Yes
 
 Could you do a new topic, with the same "style"?
-
+Yes
 
 ## Data
 
 Where could you search for data about your topic?
+Data.world and other data set sites.
